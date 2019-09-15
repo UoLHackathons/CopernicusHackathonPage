@@ -44,7 +44,7 @@ https://step.esa.int/main/doc/tutorials/snap-tutorials/
 
 ## Accessing the data: 
 
-During the Hackathon, the data will be accessed through a bucket provided on the day. However to access the Sentinel data outside of the Hackathon, you need to download the zip file from [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home). 
+During the Hackathon, the data will be accessed through a S3 bucket provided on the day. However to access the Sentinel data outside of the Hackathon, you need to download the zip file from [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home). 
 
 **Step 1:** Register as a user on Scihub to be able to download the data. 
 
