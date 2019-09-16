@@ -9,9 +9,14 @@ The user guide below gives a top-down overview of the Satellite, the instruments
 - [Sentinel-2 User Guide](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi)
 
 ## Training Material
+
 Below is a list of general information and resources about the Copernicus project, specifically the Sentinel-2 satelite mission and the data products it produces.
 
 ##Copernicus Climate Data Store (CDS)## site (https://cds.climate.copernicus.eu/#!/home) is a really useful training tool. You will need to create a free account in order to access the data, api and the toolbox. The site also includes the full catalogue of data available which include dataset descriptions.
+
+## Presentations from the Training Day (12/9/2019)
+Here are all the [presentations](https://github.com/UoLHackathons/CopernicusHackathonPage/tree/master/Training%20day%20presentations) from the training day on 12/9/2019 at Leicester University's Innovation Hub. 
+
 
 ## Useful links for Understanding the Data: 
 
@@ -62,6 +67,8 @@ During the Hackathon, the data will be accessed through a S3 bucket provided on 
    
 ## Accessing the VM using SSH: 
 
+From Mac and linux you could use the native ssh command to connect to the VM, but on windows you will need to download a client first:
+
 **Step 1:** Within the Hackathon directory on Sharepoint, download the private key file for your machine. You will be told which key this is on the day of the Hackathon. In this example, we will use the id_rsa_vms-uol-1.txt private key file.
 
 **Step 2:** Download [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
@@ -110,6 +117,4 @@ https://github.com/clcr/pyeo/blob/master/environment.yml
 You can create it using Conda with the following command:
 conda env create --file environment.yml --name pyeo_env
 
-## Presentations from the Training Day (12/9/2019)
-Here are all the [presentations](https://github.com/UoLHackathons/CopernicusHackathonPage/tree/master/Training%20day%20presentations) from the training day on 12/9/2019 at Leicester University's Innovation Hub. 
 
