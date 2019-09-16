@@ -101,7 +101,7 @@ Core: Numpy, Gdal, Scikit-learn, hdf-4, hdf-5
 
 Ancilliary: Pandas, Geopandas, Matplotlib, Scikit-image
 
-**Useful Sites:**
+**Useful Sites & Information:**
 
 John Robert's full environment file is at 
 
@@ -109,4 +109,6 @@ https://github.com/clcr/pyeo/blob/master/environment.yml
 
 You can create it using Conda with the following command:
 conda env create --file environment.yml --name pyeo_env
+
+From the training day pre-session, there were multiple powerpoints regarding Copernicus and the data and tools that are going to be used on the day. [Here](https://www.dropbox.com/sh/q9uy1who5pf9ezh/AABVh9r1IsjJ8bgXhU0Es1R9a?dl=0) is the dropbox link to access these. 
 
