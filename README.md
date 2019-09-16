@@ -110,6 +110,6 @@ https://github.com/clcr/pyeo/blob/master/environment.yml
 You can create it using Conda with the following command:
 conda env create --file environment.yml --name pyeo_env
 
-[**Presentations from the Training Day (12/9/2019)](https://github.com/UoLHackathons/CopernicusHackathonPage/tree/master/Training%20day%20presentations)**
+**[Presentations from the Training Day (12/9/2019)](https://github.com/UoLHackathons/CopernicusHackathonPage/tree/master/Training%20day%20presentations)**
 From the training day pre-session, there were multiple powerpoints regarding Copernicus and the data and tools that are going to be used on the day. 
 
